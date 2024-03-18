@@ -9,7 +9,7 @@ const TextContentStyled = styled(Typography)({
             #ffffff,
             #7bd0f5,
             #ffffff,
-            #00a1ec,
+            #7bd0f5,
             #ffffff
         );`,
   backgroundClip: "text",
